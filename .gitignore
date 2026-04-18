@@ -2,7 +2,6 @@
 downloaded_datasets/
 
 # Jupyter Notebooks
-*.ipynb
 .ipynb_checkpoints/
 
 # Data
