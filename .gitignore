@@ -1,0 +1,21 @@
+# Ignore downloaded NASA battery dataset
+downloaded_datasets/
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Data
+downloaded_dataset/
+
+# Models
+models/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
